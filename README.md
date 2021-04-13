@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://simplifiedtheories.blogspot.com/2020/12/restful-services-first-step.html
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
