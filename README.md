@@ -5,6 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ishaandwivedi20" target="blank"><img src="https://img.shields.io/twitter/follow/ishaandwivedi20?logo=twitter&style=for-the-badge" alt="ishaandwivedi20" /></a> </p>
 
+<p align="left"> 
+
+Hi , I am currently persuing Bachalor Of Technology in Computer Science & Engineering
+
+Some of my work are listed below , do checkout and leave your feedback : ) 
+
+</p>
 
 - 🔭 I’m currently working on **Open Source Finder**
 
