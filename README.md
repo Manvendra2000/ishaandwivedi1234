@@ -7,7 +7,7 @@
 
 <p align="left"> 
 
-Hi , I am currently persuing Bachalor Of Technology in Computer Science & Engineering
+Hi, I am currently pursuing Bachelor Of Technology in Computer Science & Engineering
 
 Some of my work are listed below , do checkout and leave your feedback : ) 
 
