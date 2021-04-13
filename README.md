@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://twitter.com/ishaandwivedi20" target="blank"><img src="https://img.shields.io/twitter/follow/ishaandwivedi20?logo=twitter&style=for-the-badge" alt="ishaandwivedi20" /></a> </p>
 
 
-<p align="right"> <img src="https://cdn.dribbble.com/users/31664/screenshots/6617652/morgan_4.gif" /> </p>
 - 🔭 I’m currently working on **Open Source Finder**
 
 - 🌱 I’m currently learning **Django, GraphQL**
